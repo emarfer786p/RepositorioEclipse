@@ -6,6 +6,9 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hola mundo");
+		int a = 4;
+		int b = 5;
+		int result = a+b;
 	}
 
 }
