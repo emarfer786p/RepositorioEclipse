@@ -9,6 +9,12 @@ public class HolaMundo {
 		int a = 4;
 		int b = 5;
 		int result = a+b;
+		
+		System.out.println("dsaasd");
+		
+		int c = 7;
+		int d  = 8;
+		int resultResta  = d-c;
 	}
 
 }
